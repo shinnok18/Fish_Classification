@@ -61,3 +61,6 @@ This project successfully implements a CNN model for classifying fish species fr
 - Matplotlib
 - Seaborn
 - Pandas
+
+## Kaggle Link
+https://www.kaggle.com/code/oruntrkokulolu/fish-classification/
